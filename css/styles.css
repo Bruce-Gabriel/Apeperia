@@ -99,11 +99,11 @@ img {
     }
 }
 
-.logo {
+.logo__imagen {
     margin: 0 auto;
 }
 @media (min-width: 992px) {
-    .logo {
+    .logo__imagen {
         margin: 0;
     }
 }
